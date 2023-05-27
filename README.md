@@ -1,16 +1,21 @@
-## Hi there 👋, My name is Burak Fatih
-### Who Am I?
-In addition to the control, design and drawing of the electronic circuit boards produced within the company, the realization of the test stages, the integration of the produced systems and the control of the produced devices, I also conducted R&D studies within the scope of power electronics. . In terms of personal development, I also worked on embedded software development with STM32 & Atmega microprocessor. Now that I want to focus more on the software field that interests me and I want to work in the sector intensively, I chose to focus on the software field. For this reason, I was included in the BilgeAdam Boost Full Stack Developer program by going through certain interviews and I am working to advance in this field and increase my knowledge in this field.
+<h1 align="center">Hi 👋, I'm Burak Fatih</h1>
+<h3 align="center">Full Stack Developer Trainee || Analog Electronic Circuit Design Engineer</h3>
 
-Skills: C / C++ / PLC Ladder Programming
+- 📫 How to reach me **burak190370@gmail.com**
 
-- 🔭 I’m currently working on C# 
-- 🌱 I’m currently learning SQL Server, T-SQL, HTML, CSS, JavaScript, JQuery, Bootstrap, React, ASP.NET Core MVC, Web API, .NET Core 
-- 👯 I’m looking to collaborate on the Technologies I've learned 
-- 💬 Ask me about www.linkedin.com/in/burakfatihkilicaslan 
-- 📫 How to reach me: gmail:burak190370@gmail.com  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/burakfatihkilicaslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burakfatihkilicaslan/" height="30" width="40" /></a>
+<a href="https://medium.com/@burakfatihklaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burakfatihklaslan" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BurakFatihKilicaslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/burakfatihkilicaslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/burakfatihkilicaslan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16952646/burak-fatih-kilicaslan)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakfatihkilicaslan&show_icons=true&locale=en&layout=compact" alt="burakfatihkilicaslan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakfatihkilicaslan&show_icons=true&locale=en" alt="burakfatihkilicaslan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakfatihkilicaslan&" alt="burakfatihkilicaslan" /></p>  
 
 
