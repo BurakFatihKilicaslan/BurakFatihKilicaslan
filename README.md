@@ -27,4 +27,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BurakFatihKilicaslan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BurakFatihKilicaslan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BurakFatihKilicaslan&icon=0&color=12)](https://visitcount.itsvg.in)
+
