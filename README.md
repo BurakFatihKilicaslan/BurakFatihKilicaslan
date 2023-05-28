@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Fatih</h1>
 <h3 align="center">Full Stack Developer Trainee || Analog Electronic Circuit Design Engineer</h3>
 
-- 🌱 I’m currently developing myself on **Full Stack Development**
+- 🌱 I’m currently developing myself on **JavaScript and C#.**
 
 - 👯 I’m looking to collaborate on **Full Stack Developer**
 
