@@ -41,6 +41,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BurakFatihKilicaslan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/BurakFatihKilicaslan/count.svg">  
+
+<p align="center"> 
+counting of visitors to this page in this section started from June 13, 2023
+<a href="https://info.flagcounter.com/PO2G">
+   <img src="https://s01.flagcounter.com/map/PO2G/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/">
+
 ---
-[![](https://visitcount.itsvg.in/api?id=BurakFatihKilicaslan&icon=0&color=12)](https://visitcount.itsvg.in)
 
