@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently developing myself on **JavaScript and C#.(.Net Technology)**
 
-- 📫 How to reach me ****burakbfk95@gmail.com****
+- 📫 How to reach me ****burakfatihkilicaslan95@gmail.com****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
